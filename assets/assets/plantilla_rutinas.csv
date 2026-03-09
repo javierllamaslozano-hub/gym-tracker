@@ -4,11 +4,11 @@ Pierna Fuerte y Glúteo;Hip thrust con barra;Pierna, Glúteo;Glúteo mayor. Mantén 
 Pierna Fuerte y Glúteo;Peso muerto;Pierna, Isquiosurales, Glúteo, Erectores espinales;"Isquiosurales, Glúteo mayor, Erectores espinales. Prioriza técnica. Espalda recta, ""saca pecho"". La barra roza tus piernas.";3;15;25
 Pierna Fuerte y Glúteo;Aductor en polea;Pierna, Aductores;Movimiento controlado. No dejes que las placas choquen fuerte al volver.;3;15;5
 Pierna Fuerte y Glúteo;Deadbug;Core;Espalda baja pegada al suelo como si tuvieras pegamento. Estira brazo y pierna contraria.;3;12;0
-Torso 1;Press militar;Hombro, Deltoides anterior, Deltoides lateral;Hombro frontal.No arquear espalda. Apretar abdomen. Primera serie sin peso para calentar.;4;10;6
-Torso 1;Jalón al pecho;Espalda, Dorsal ancho;Espalda Dorsal.Lleva la barra a la parte alta del pecho (clavícula). No te balancees hacia atrás.;4;12;20
-Torso 1;Remo con mancuerna;Espalda, Dorsal ancho, Romboides, Trapecio;Espalda media. Apoya mano y rodilla en banco. Tira llevando el codo hacia tu cadera, no hacia el techo.;3;12;8
-Torso 1;Face pull;Espalda, Hombro, Deltoides posterior, Manguito rotador, Trapecio;Hombro posterior. Usa la cuerda. Tira hacia tu frente separando las manos. Codos altos.;3;15;10
-Torso 1;Pallof en zancada;Core;Ponte de lado a la polea. Estira brazos al frente y aguanta sin que te gire el tronco.;3;15;5
+Torso 1 M;Press militar con mancuernas;Hombro, Deltoides anterior, Deltoides lateral;Hombro frontal.No arquear espalda. Apretar abdomen. Primera serie sin peso para calentar.;4;10;6
+Torso 1 M;Jalón al pecho;Espalda, Dorsal ancho;Espalda Dorsal.Lleva la barra a la parte alta del pecho (clavícula). No te balancees hacia atrás.;4;12;20
+Torso 1 M;Remo con mancuerna;Espalda, Dorsal ancho, Romboides, Trapecio;Espalda media. Apoya mano y rodilla en banco. Tira llevando el codo hacia tu cadera, no hacia el techo.;3;12;8
+Torso 1 M;Face pull;Espalda, Hombro, Deltoides posterior, Manguito rotador, Trapecio;Hombro posterior. Usa la cuerda. Tira hacia tu frente separando las manos. Codos altos.;3;15;10
+Torso 1 M;Pallof en zancada;Core;Ponte de lado a la polea. Estira brazos al frente y aguanta sin que te gire el tronco.;3;15;5
 Pierna Mixta;Sentadilla sumo;Pierna, Glúteo, Aductores, Cuádriceps;Cuádriceps, glúteo mayor, aductores.Pies muy abiertos, puntas hacia fuera. Baja la mancuerna o kettle vertical entre las piernas.;3;15;12
 Pierna Mixta;Leg press;Pierna, Cuádriceps, Glúteo;Cuádriceps y glúteo mayor. Empuja con toda la planta del pie. No estires las rodillas del todo al subir (no bloquear).;3;15;40
 Pierna Mixta;Step ups al cajón;Pierna, Cuádriceps, Glúteo;Cuádriceps y glúteo mayor. Usa un cajón donde la rodilla quede a 90°. Sube con la fuerza de la pierna de arriba.;3;10;0
@@ -24,3 +24,8 @@ Torso 2;Elevaciones laterales de hombro;Hombro, Deltoides lateral;"Brazos ligera
 Torso 2;Remo en máquina agarre ancho unilateral;Espalda, Deltoides posterior, Trapecio, Romboides;Espalda alta. Agarre ancho. Unilateral. No despegues el pecho del cojín. Imagina atrapar un lápiz entre las escápulas.;3;12;15
 Torso 2;Pájaros;Hombro, Deltoides posterior;Hombro posterior. Inclina el torso hacia adelante y concéntrate en abrir los brazos.;3;15;2
 Torso 2;Plancha lateral con elevación de pierna;Core, Glúteo;Oblicuos, glúteo medio y glúteo menor. Codo justo debajo del hombro. Sube la pierna libre y aguanta para mejorar equilibrio.;3;30;0
+Torso 1 B;Press militar con barra;Hombro, Deltoides anterior, Deltoides lateral;Hombro frontal.No arquear espalda. Apretar abdomen. Primera serie sin peso para calentar.;4;10;15
+Torso 1 B;Jalón al pecho;Espalda, Dorsal ancho;Espalda Dorsal.Lleva la barra a la parte alta del pecho (clavícula). No te balancees hacia atrás.;4;12;20
+Torso 1 B;Remo en máquina de polea agarre estrecho;Espalda, Dorsal ancho;;3;12;8
+Torso 1 B;Face pull;Espalda, Hombro, Deltoides posterior, Manguito rotador, Trapecio;Hombro posterior. Usa la cuerda. Tira hacia tu frente separando las manos. Codos altos.;3;15;10
+Torso 1 B;Pallof en zancada;Core;Ponte de lado a la polea. Estira brazos al frente y aguanta sin que te gire el tronco.;3;15;5
