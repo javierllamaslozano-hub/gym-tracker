@@ -21,11 +21,14 @@ Torso Complementario 1;Pájaros;Hombro, Deltoides posterior;Hombro posterior. Inc
 Torso Complementario 1;Pallof en zancada;Core;Ponte de lado a la polea. Estira brazos al frente y aguanta sin que te gire el tronco.;3;30;5
 Torso 2;Flexiones;Pecho, Pectoral mayor, Tríceps, Deltoides anterior;Trabajan pecho y tríceps. Mantén el abdomen duro como una tabla. Apoya rodillas si es necesario.;3;0;0
 Torso 2;Elevaciones laterales de hombro;Hombro, Deltoides lateral;"Brazos ligeramente flexionados. Piensa en ""servir agua"" al llegar arriba.";4;15;3
-Torso 2;Remo en máquina agarre ancho unilateral;Espalda, Deltoides posterior, Trapecio, Romboides;Espalda alta. Agarre ancho. Unilateral. No despegues el pecho del cojín. Imagina atrapar un lápiz entre las escápulas.;3;12;15
+Torso 2;Remo en máquina unilateral (agarre ancho);Espalda, Deltoides posterior, Trapecio, Romboides;Espalda alta. Agarre ancho. Unilateral. No despegues el pecho del cojín. Imagina atrapar un lápiz entre las escápulas.;3;12;15
 Torso 2;Pájaros;Hombro, Deltoides posterior;Hombro posterior. Inclina el torso hacia adelante y concéntrate en abrir los brazos.;3;15;2
 Torso 2;Plancha lateral con elevación de pierna;Core, Glúteo;Oblicuos, glúteo medio y glúteo menor. Codo justo debajo del hombro. Sube la pierna libre y aguanta para mejorar equilibrio.;3;30;0
 Torso 1 B;Press militar con barra;Hombro, Deltoides anterior, Deltoides lateral;Hombro frontal.No arquear espalda. Apretar abdomen. Primera serie sin peso para calentar.;4;10;15
 Torso 1 B;Jalón al pecho;Espalda, Dorsal ancho;Espalda Dorsal.Lleva la barra a la parte alta del pecho (clavícula). No te balancees hacia atrás.;4;12;20
-Torso 1 B;Remo en máquina de polea agarre estrecho;Espalda, Dorsal ancho;;3;12;8
+Torso 1 B;Remo en polea (agarre estrecho);Espalda, Dorsal ancho;;3;12;8
 Torso 1 B;Face pull;Espalda, Hombro, Deltoides posterior, Manguito rotador, Trapecio;Hombro posterior. Usa la cuerda. Tira hacia tu frente separando las manos. Codos altos.;3;15;10
 Torso 1 B;Pallof en zancada;Core;Ponte de lado a la polea. Estira brazos al frente y aguanta sin que te gire el tronco.;3;15;5
+Mix;Remo en máquina unilateral (agarre estrecho);Espalda, Dorsal ancho;;3;12;20
+Mix;Remo con barra;Espalda, Dorsal ancho, Romboides, Trapecio;;3;12;20
+Mix;Plancha;Core;;3;30;0
