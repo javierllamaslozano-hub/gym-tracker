@@ -94494,7 +94494,7 @@ for(;;)switch(s){case 0:o=$.aMJ
 if(o!=null){q=o
 s=1
 break}s=3
-return B.j(p.Ao("gym_tracker_v12.db"),$async$gbY)
+return B.j(p.Ao("gym_tracker_v13.db"),$async$gbY)
 case 3:o=b
 $.aMJ=o
 o.toString
@@ -94507,7 +94507,7 @@ Ao(a){return this.aiP(a)},
 aiP(a){var s=0,r=B.r(t.Bk),q,p=this
 var $async$Ao=B.t(function(b,c){if(b===1)return B.o(c,r)
 for(;;)switch(s){case 0:s=3
-return B.j($.aWa().Ea(a,B.b_T(null,p.gacl(),null,null,p.gapP(),!1,!0,12)),$async$Ao)
+return B.j($.aWa().Ea(a,B.b_T(null,p.gacl(),null,null,p.gapP(),!1,!0,13)),$async$Ao)
 case 3:q=c
 s=1
 break
@@ -94742,7 +94742,7 @@ s=11
 break
 case 12:c4=B.dv(b,null)
 b1=c4==null?4291728344:c4
-c5=B.xI("workouts",B.ae(["name",c,"date",a8.Nf(),"color",b1],b5,b6),null,null)
+c5=B.xI("workouts",B.ae(["name",c,"date",a8.Nf(),"color",b1,"durationMinutes",60],b5,b6),null,null)
 b9=c5.a
 b9===$&&B.a()
 c6=c5.b
